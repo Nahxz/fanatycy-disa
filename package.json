@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "version": "1.6.10",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.2",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "fstorm": "latest",
+    "jimp": "latest",
+    "node-cron": "^3.0.0"
+  }
+}
